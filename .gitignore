@@ -1,13 +1,13 @@
 # Specifies intentionally untracked files to ignore when using Git
 # http://git-scm.com/docs/gitignore
 
+Goldenship-serviceAccountKey.json	
 Rouya-serviceAccountKey.json
 Docturm-serviceAccountKey.json
 /Assel-serviceAccountKey.json
 Assel-serviceAccountKey.json
 /Rouya-serviceAccountKey.json
 /Goldenship-serviceAccountKey.json	
-Goldenship-serviceAccountKey.json	
 
 *~
 *.sw[mnpcod]
