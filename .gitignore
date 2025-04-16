@@ -1,13 +1,16 @@
+Goldenship-serviceAccountKey.json
+*Goldenship-serviceAccountKey.json	
+/Goldenship-serviceAccountKey.json	
+
+
 # Specifies intentionally untracked files to ignore when using Git
 # http://git-scm.com/docs/gitignore
 
-Goldenship-serviceAccountKey.json	
-Rouya-serviceAccountKey.json
-Docturm-serviceAccountKey.json
-/Assel-serviceAccountKey.json
-Assel-serviceAccountKey.json
-/Rouya-serviceAccountKey.json
-/Goldenship-serviceAccountKey.json	
+# Rouya-serviceAccountKey.json
+# Docturm-serviceAccountKey.json
+# /Assel-serviceAccountKey.json
+# Assel-serviceAccountKey.json
+# /Rouya-serviceAccountKey.json
 
 *~
 *.sw[mnpcod]
@@ -19,7 +22,6 @@ $RECYCLE.BIN/
 
 *.log
 log.txt
-
 
 /.sourcemaps
 /.versions
@@ -78,6 +80,7 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
-*y.json 
+
+
  
  
