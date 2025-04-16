@@ -2,8 +2,11 @@
 # http://git-scm.com/docs/gitignore
 
 Docturm-serviceAccountKey.json
-Assel-serviceAccountKey.json	
-Rouya-serviceAccountKey.json	
+/Assel-serviceAccountKey.json
+Assel-serviceAccountKey.json
+/Rouya-serviceAccountKey.json
+Rouya-serviceAccountKey.json
+/Goldenship-serviceAccountKey.json	
 Goldenship-serviceAccountKey.json	
 
 *~
